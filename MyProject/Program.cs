@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(new WebApplicationOptions()
 {
     WebRootPath="myroot"
 });
-builder.Services.AddTransient<MyCustomMiddlewareClass>();
+//builder.Services.AddTransient<MyCustomMiddlewareClass>();
 builder.Services.AddControllers();
 var app = builder.Build();
 

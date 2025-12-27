@@ -6,7 +6,7 @@
         {
             await context.Response.WriteAsync("Hello from MyCustomMiddlewareClass --Starts");
             await next(context);
-            await context.Response.WriteAsync("Hello from MyCustomMiddlewareClass --Ends");
+            //await context.Response.WriteAsync("Hello from MyCustomMiddlewareClass --Ends");
         }
     }
 }

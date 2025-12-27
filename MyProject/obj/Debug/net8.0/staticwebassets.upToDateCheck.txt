@@ -1,0 +1,2 @@
+wwwroot\mong.pdf
+wwwroot\SUBRATA.jpeg

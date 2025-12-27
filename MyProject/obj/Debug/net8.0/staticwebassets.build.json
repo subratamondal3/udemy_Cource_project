@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "whPXb4KZX8glzmoV3+zwCKxrKl6lrHXMjofErSYtNlw=",
+  "Source": "MyProject",
+  "BasePath": "_content/MyProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyProject\\wwwroot",
+      "Source": "MyProject",
+      "ContentRoot": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\",
+      "BasePath": "_content/MyProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\mong.pdf",
+      "SourceId": "MyProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\",
+      "BasePath": "_content/MyProject",
+      "RelativePath": "mong#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kj9uv2j48x",
+      "Integrity": "MH03mpYnWhfCbiE6Dqb/Ek9ZwZ8yzsLsSspALRRTSlQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mong.pdf"
+    },
+    {
+      "Identity": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\SUBRATA.jpeg",
+      "SourceId": "MyProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\",
+      "BasePath": "_content/MyProject",
+      "RelativePath": "SUBRATA#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dy0xof0mfk",
+      "Integrity": "FbcGBLGtS84CpS4dmVIxRtdrPc2q1z+IDYIaZi2q0aw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SUBRATA.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "mong.kj9uv2j48x.pdf",
+      "AssetFile": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\mong.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MH03mpYnWhfCbiE6Dqb/Ek9ZwZ8yzsLsSspALRRTSlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Dec 2023 13:57:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kj9uv2j48x"
+        },
+        {
+          "Name": "label",
+          "Value": "mong.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MH03mpYnWhfCbiE6Dqb/Ek9ZwZ8yzsLsSspALRRTSlQ="
+        }
+      ]
+    },
+    {
+      "Route": "mong.pdf",
+      "AssetFile": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\mong.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MH03mpYnWhfCbiE6Dqb/Ek9ZwZ8yzsLsSspALRRTSlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Dec 2023 13:57:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MH03mpYnWhfCbiE6Dqb/Ek9ZwZ8yzsLsSspALRRTSlQ="
+        }
+      ]
+    },
+    {
+      "Route": "SUBRATA.dy0xof0mfk.jpeg",
+      "AssetFile": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\SUBRATA.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FbcGBLGtS84CpS4dmVIxRtdrPc2q1z+IDYIaZi2q0aw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Dec 2021 09:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dy0xof0mfk"
+        },
+        {
+          "Name": "label",
+          "Value": "SUBRATA.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FbcGBLGtS84CpS4dmVIxRtdrPc2q1z+IDYIaZi2q0aw="
+        }
+      ]
+    },
+    {
+      "Route": "SUBRATA.jpeg",
+      "AssetFile": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\SUBRATA.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FbcGBLGtS84CpS4dmVIxRtdrPc2q1z+IDYIaZi2q0aw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Dec 2021 09:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FbcGBLGtS84CpS4dmVIxRtdrPc2q1z+IDYIaZi2q0aw="
+        }
+      ]
+    }
+  ]
+}

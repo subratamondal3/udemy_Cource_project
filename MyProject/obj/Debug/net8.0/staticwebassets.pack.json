@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\SUBRATA.jpeg",
+      "PackagePath": "staticwebassets\\SUBRATA.jpeg"
+    },
+    {
+      "Id": "C:\\AspNetMyProject\\MyProject\\MyProject\\wwwroot\\mong.pdf",
+      "PackagePath": "staticwebassets\\mong.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyProject.props",
+      "PackagePath": "build\\MyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyProject.props",
+      "PackagePath": "buildMultiTargeting\\MyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyProject.props",
+      "PackagePath": "buildTransitive\\MyProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

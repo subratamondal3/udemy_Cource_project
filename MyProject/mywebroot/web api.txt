@@ -1,0 +1,15 @@
+
+what are services and main use of servises
+why angular
+what is component
+data binding
+forms
+pipes
+--------------
+value type and reference type
+stack and heap
+
+----------------------------------------------------------------------------------------------------
+Q1. What is Web API? What is the purpose of Web API?
+ans:web api application programming interface provides interaction between software application
+
